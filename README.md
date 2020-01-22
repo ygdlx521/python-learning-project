@@ -1,2 +1,2 @@
-# -python-learning-project
+# python-learning-project
 Projects with python
